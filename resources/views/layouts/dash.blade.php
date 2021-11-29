@@ -129,6 +129,14 @@
                   </a>
                 </li>
               </ul>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="/karyawan" class="nav-link">
+                    <i class="bi bi-person-circle"> </i>
+                    <p>USER</p>
+                  </a>
+                </li>
+              </ul>
               
               <li class="nav-item">
                 <a href="{{ ('/absensi') }}" class="nav-link">
